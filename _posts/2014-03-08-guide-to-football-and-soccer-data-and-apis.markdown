@@ -38,6 +38,7 @@ Jump to a specific source:
   - [API-Football](#apifootball)
   - [ScoreBat Video API](#scorebat)
 - Commercial APIs
+  - [allsportsapi.com] (#AllSportsApi.com)
   - [football-api.com](#footballapi)
   - [CrowdScores and FastestLiveScores API](#CrowdScores)
   - [SPAPI](#spapi)
@@ -231,6 +232,13 @@ Example Standings JSON
 #### Betlines Ninja API (betting/odds)
 
 The free [API](https://market.mashape.com/arisalexis/soccer-odds) (hosted on Mashape) is for betting odds but contains a lot of upcoming fixture data. The API is provided by the [Betlines Ninja](http://betlines.ninja). Along with match data the service provides recent odds data from all major sportsbooks (11 currently including Bwin, Paddy Power, Betfair etc.) Results can be obtained for a maximum of 3 days back in the free plan. There is also a data-dump database of historical data for sale.
+
+<a name="AllSportsApi.com">
+### AllSportsApi
+[All Sports API](https://allsportsapi.com/soccer-api) is a reliable sports information provider. Our coverage journeys around the world to bring you the livescore feed of your favourite sporting competitions. Stick with us to get reliable and steady sports feed at affordable rates. Our platform’s livescore data and sports data is easy to transport to your own website at fast speeds without lagging.
+
+[All Sports API](https://allsportsapi.com/soccer-api) provides steady and affordable API for your mobile applications and smaller websites. We bring you reliable and swift football data as soon as it happens in the stadium. Our football API combines effectiveness with understanding which makes it easier for you to present our content on your website without having to wait through lengthy loading times or a lagging database.
+
 
 <a name="apifootball"></a>
 ### API-Football
